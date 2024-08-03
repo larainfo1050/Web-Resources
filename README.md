@@ -11,6 +11,7 @@
 - Svelte
 
 #### Articles & Blog
+[How to Add Drag-and-Drop Image Upload with Dropzone in React Using Tailwind CSS](https://frontendshape.com/post/how-to-add-drag-and-drop-image-upload-with-dropzone-in-react-using-tailwind-css)
 
 ### CSS and Styling
 - Tailwind CSS
@@ -36,6 +37,7 @@
 - Java
 
 ####  Articles & Blog
+[Extending Django Models: A Comprehensive Guide](https://pleypot.com/blog/extending-django-models/)
 
 ### API Development
 - REST
