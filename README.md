@@ -18,6 +18,9 @@
 - SCSS
 - CSS-in-JS
 
+#### Articles & Blog
+[Install Tailwind CSS With Vite for Vanilla.js](https://larainfo.com/blogs/install-tailwind-css-with-vite-for-vanilla-js/)
+
 ### JavaScript Tips and Tricks
 - ES6+ features
 - Performance optimization
